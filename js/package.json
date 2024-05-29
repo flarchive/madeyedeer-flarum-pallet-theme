@@ -1,0 +1,24 @@
+{
+  "name": "@madeyedeer/flarum-pallet-theme",
+  "description": "Fork of Pallet theme for your forum. Original by Hasan Özbey.",
+  "license": "MIT",
+  "version": "0.2.5",
+  "dependencies": {
+    "flarum-webpack-config": "0.1.0-beta.16.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.7.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MadEyeDeer/flarum-pallet-theme.git"
+  },
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production",
+    "format": "prettier --write src",
+    "format-check": "prettier --check src"
+  }
+}
