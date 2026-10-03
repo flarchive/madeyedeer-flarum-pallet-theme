@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of madeyedeer/flarum-pallet-theme.** Not for installation: use [Packagist](https://packagist.org/packages/madeyedeer/flarum-pallet-theme) or the [upstream repository](https://github.com/MadEyeDeer/flarum-pallet-theme).
 
-**0** versions archived · Latest: [`v0.2.5`](https://github.com/flarchive/madeyedeer-flarum-pallet-theme/tree/archive/v0.2.5) · License: `MIT` · Flarum: `^1.0.2`
+**6** versions archived · Latest: [`v0.2.5`](https://github.com/flarchive/madeyedeer-flarum-pallet-theme/tree/archive/v0.2.5) · License: `MIT` · Flarum: `^1.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.2.0` | 2024-05-18 | `^1.0.2` | [Browse](https://github.com/flarchive/madeyedeer-flarum-pallet-theme/tree/archive/v0.2.0) |
+| `v0.2.1` | 2024-05-18 | `^1.0.2` | [Browse](https://github.com/flarchive/madeyedeer-flarum-pallet-theme/tree/archive/v0.2.1) |
+| `v0.2.2` | 2024-05-23 | `^1.0.2` | [Browse](https://github.com/flarchive/madeyedeer-flarum-pallet-theme/tree/archive/v0.2.2) |
+| `v0.2.3` | 2024-05-24 | `^1.0.2` | [Browse](https://github.com/flarchive/madeyedeer-flarum-pallet-theme/tree/archive/v0.2.3) |
+| `v0.2.4` | 2024-05-24 | `^1.0.2` | [Browse](https://github.com/flarchive/madeyedeer-flarum-pallet-theme/tree/archive/v0.2.4) |
+| `v0.2.5` | 2024-05-29 | `^1.0.2` | [Browse](https://github.com/flarchive/madeyedeer-flarum-pallet-theme/tree/archive/v0.2.5) |
 
 Catalog entry: [packages/madeyedeer-flarum-pallet-theme.json](https://github.com/flarchive/archive-index/blob/main/packages/madeyedeer-flarum-pallet-theme.json)
 
